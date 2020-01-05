@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi people,
+Mensur here, I love programming.
